@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kaspers's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasperaamodt&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![](https://komarev.com/ghpvc/?username=kasperaamodt)
